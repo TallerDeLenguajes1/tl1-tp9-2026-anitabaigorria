@@ -1,0 +1,14 @@
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorDirectorio\bin\Debug\net10.0\LectorDirectorio.exe
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorDirectorio\bin\Debug\net10.0\LectorDirectorio.deps.json
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorDirectorio\bin\Debug\net10.0\LectorDirectorio.runtimeconfig.json
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorDirectorio\bin\Debug\net10.0\LectorDirectorio.dll
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorDirectorio\bin\Debug\net10.0\LectorDirectorio.pdb
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.AssemblyInfoInputs.cache
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.AssemblyInfo.cs
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.csproj.CoreCompileInputs.cache
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.dll
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorDirectorio\obj\Debug\net10.0\refint\LectorDirectorio.dll
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.pdb
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorDirectorio\obj\Debug\net10.0\LectorDirectorio.genruntimeconfig.cache
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorDirectorio\obj\Debug\net10.0\ref\LectorDirectorio.dll

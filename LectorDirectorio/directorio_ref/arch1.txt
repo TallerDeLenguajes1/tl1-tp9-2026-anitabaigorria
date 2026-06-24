@@ -1,0 +1,6 @@
+En informática, un directorio es un contenedor virtual en el que se almacenan una 
+agrupación de archivos informáticos y otros subdirectorios, atendiendo a su contenido, a su 
+propósito o a cualquier criterio que decida el usuario. 
+Técnicamente, el directorio almacena información acerca de los archivos que contiene: como 
+los atributos de los archivos o dónde se encuentran físicamente en el dispositivo de 
+almacenamiento
