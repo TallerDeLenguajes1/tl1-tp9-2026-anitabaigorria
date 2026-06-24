@@ -57,14 +57,17 @@ if (archivos.Length == 0)
 }
 
 // --- CREAMOS Y CARGAMOS LOS DATOS EN EL ARCHIVO 'reporte_archivos.csv' ---
-        using (StreamWriter agregar = new StreamWriter("./directorio_ref/reporte_archivos.csv"))
-        {
-            foreach (string archivo in archivos)
-            {
-                FileInfo info = new FileInfo(archivo);
-                agregar.Write($"{info.Name},");
-                agregar.Write($"{info.Length:F2} KB,");
-                agregar.Write($"{info.LastWriteTime},");
-                agregar.WriteLine("");
-            }
-        }
+string rutaArchivoCsv = Path.Combine(path, "reporte_archivos.csv");
+
+using (StreamWriter agregar = new StreamWriter(rutaArchivoCsv))
+{
+    agregar.WriteLine("Nombre del Archivo,Tamanio (KB),Fecha de Ultima Modificacion");
+
+    foreach (string archivo in archivos)
+    {
+        FileInfo info = new FileInfo(archivo);
+        double tamanioKB = info.Length / 1024.0;
+        
+        agregar.WriteLine($"{info.Name},{tamanioKB:F2},{info.LastWriteTime}");
+    }
+}
