@@ -1,0 +1,14 @@
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorTagMP3\obj\Debug\net10.0\LectorTagMP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorTagMP3\obj\Debug\net10.0\LectorTagMP3.AssemblyInfoInputs.cache
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorTagMP3\obj\Debug\net10.0\LectorTagMP3.AssemblyInfo.cs
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorTagMP3\obj\Debug\net10.0\LectorTagMP3.csproj.CoreCompileInputs.cache
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorTagMP3\bin\Debug\net10.0\LectorTagMP3.exe
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorTagMP3\bin\Debug\net10.0\LectorTagMP3.deps.json
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorTagMP3\bin\Debug\net10.0\LectorTagMP3.runtimeconfig.json
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorTagMP3\bin\Debug\net10.0\LectorTagMP3.dll
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorTagMP3\bin\Debug\net10.0\LectorTagMP3.pdb
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorTagMP3\obj\Debug\net10.0\LectorTagMP3.dll
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorTagMP3\obj\Debug\net10.0\refint\LectorTagMP3.dll
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorTagMP3\obj\Debug\net10.0\LectorTagMP3.pdb
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorTagMP3\obj\Debug\net10.0\LectorTagMP3.genruntimeconfig.cache
+C:\FACULTAD\2026\1-CUATRIMESTRE\TDL-I\tl1-tp9-2026-anitabaigorria\LectorTagMP3\obj\Debug\net10.0\ref\LectorTagMP3.dll
